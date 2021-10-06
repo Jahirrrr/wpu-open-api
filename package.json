@@ -1,7 +1,7 @@
 {
-  "name": "sekolahyuk-app",
+  "name": "wpu-open-api",
   "version": "1.0.0",
-  "description": "My FullStack Project",
+  "description": "WPU Api Project",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ZSofttt/sekolahyuk-app.git"
+    "url": "git+https://github.com/ZSofttt/wpu-open-api.git"
   },
-  "author": "Zahir Hadi Athallah",
+  "author": "Zahirrr, WPU Server",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ZSofttt/sekolahyuk-app/issues"
+    "url": "https://github.com/ZSofttt/wpu-open-api/issues"
   },
-  "homepage": "https://github.com/ZSofttt/sekolahyuk-app#readme",
+  "homepage": "https://github.com/ZSofttt/wpu-open-api#readme",
   "dependencies": {
     "bcrypt": "^5.0.0",
     "body-parser": "^1.19.0",
